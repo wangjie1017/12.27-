@@ -1,0 +1,47 @@
+[
+    {
+        "id":0,
+        "name":"杨小脚大盘鸡(马连洼店)",
+        "imgurlTwo":"http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+        "imgurlThree":"http://p1.meituan.net/codeman/93231059874052e97c0976c8a6e30dbe910.png",
+        "price":"68",
+        "dizhi":"上地330m",
+        "juli":"西北菜",
+        "one":"团双人餐105元起，3-4人餐208元",
+        "two":"[立减55园券95代100元",
+        "imgurl":"https://img.meituan.net/msmerchant/1220b1513e8ec4dfb470f8f2cbec0ca6232400.jpg@320w_320h_1e_1c"
+    },{
+        "id":1,
+        "name":"椰思椰子鸡养生火锅(上地店)",
+        "imgurlTwo":"http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+        "imgurlThree":"http://p1.meituan.net/codeman/93231059874052e97c0976c8a6e30dbe910.png",
+        "price":"116",
+        "dizhi":"上地336m",
+        "juli":"特色火锅上地火锅第6名",
+        "one":"",
+        "two":"券89.9代100元",
+        "imgurl":"https://img.meituan.net/msmerchant/7a2e9c4908e06f49076c001e829ce69567361.jpg@320w_320h_1e_1c"
+    },{
+        "id":2,
+        "name":"逍遥烫特色串串",
+        "imgurlTwo":"http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+        "imgurlThree":"http://p1.meituan.net/codeman/93231059874052e97c0976c8a6e30dbe910.png",
+        "price":"49",
+        "dizhi":"回龙观5.6km",
+        "juli":"串串香回龙观串串香第10名新店特惠",
+        "one":"团71.8元经典双人餐，88元超值双人餐，188元..",
+        "two":"券68代100元",
+        "imgurl":"https://img.meituan.net/180.180/msmerchant/932074f94272ae336baa9ccef35fc4bc1800657.jpg@320w_320h_1e_1c"
+    },{
+        "id":3,
+        "name":"串儿道烧烤(上地店)",
+        "imgurlTwo":"http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+        "imgurlThree":"http://p1.meituan.net/codeman/93231059874052e97c0976c8a6e30dbe910.png",
+        "price":"78",
+        "dizhi":"上地325m",
+        "juli":"烤串上地烤串第1名包间可订",
+        "one":"新客减15]团单人餐28元起, 双人餐128元，4人餐288元，..",
+        "two":"新客减14券89代100元， 95代100元",
+        "imgurl":"https://img.meituan.net/msmerchant/06b8ae71a755166a43a4cd1c4ad833a440638.jpg@320w_320h_1e_1c"
+    }
+]
